@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project showcases my expertise in developing a Three JS-based car rental portfolio, with a focus on the following key areas:
+This project showcases a Next JS based car rental web applications, with a focus on the following key areas:
 
 - **Next.js 13 App Router and Server Side Rendering**: Leveraged the latest features of Next.js for efficient app routing and server-side rendering, enhancing performance and user experience.
 
