@@ -1,4 +1,4 @@
-# Car Rental Project in Next 14 ann Typescript
+# Car Rental Project in Next 14 & Typescript
 
 ![Car Rental](https://designs.arslanstack.com/car1.png)
 
@@ -24,5 +24,7 @@ Feel free to explore the project and immerse yourself in the captivating 3D expe
 
 ## Additional Screenshots
 
-![Car Rental](https://designs.arslanstack.com/car2.png)
+![Car Rental](https://designs.arslanstack.com/car2.png) 
+
+
 ![Car Rental](https://designs.arslanstack.com/car3.png)
