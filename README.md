@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Car Rental Project in Next 14 ann Typescript
 
-## Getting Started
+![Car Rental](https://designs.arslanstack.com/car1.png)
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project showcases my expertise in developing a Three JS-based car rental portfolio, with a focus on the following key areas:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js 13 App Router and Server Side Rendering**: Leveraged the latest features of Next.js for efficient app routing and server-side rendering, enhancing performance and user experience.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Advanced Search Functionality**: Implemented advanced search functionality to enable users to find specific car models or features seamlessly.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Filtering Capabilities**: Created filtering capabilities, allowing users to refine their search based on various criteria.
 
-## Learn More
+- **Metadata Optimization and SEO**: Ensured optimal metadata and search engine optimization (SEO) practices to enhance the project's visibility on the web.
 
-To learn more about Next.js, take a look at the following resources:
+- **Custom UI Elements**: Developed custom filter, combobox, and modal elements to provide a unique and intuitive user interface.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Well-Organized File and Folder Structure**: Maintained a well-organized file and folder structure, promoting code clarity and ease of navigation.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Clean Code Principles**: Adhered to the principles of writing clean code, emphasizing readability and maintainability.
 
-## Deploy on Vercel
+Feel free to explore the project and immerse yourself in the captivating 3D experiences it has to offer!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Additional Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Car Rental](https://designs.arslanstack.com/car2.png)
+![Car Rental](https://designs.arslanstack.com/car3.png)
